@@ -11,3 +11,12 @@ Model the behavior of an individual boid by writing functions for each of the th
 Implement a visual model that evolves flight of your flock from random initial positions.
 
 What's the maximum number of boids your program can model?
+
+
+Contributors 
+- Parvaneh Aliniya
+- Andres Cuervo
+- Immaculate Okoruwa
+
+
+
